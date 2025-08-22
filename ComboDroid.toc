@@ -1,0 +1,6 @@
+## Interface/AddOns/ComboDroid/ComboDroid.toc
+## Title: ComboDroid
+## Notes: Sleek combo/health bar UI for Turtle WoW and Classic
+## Author: YourNameHere
+## Version: 1.0
+ComboDroid.lua
