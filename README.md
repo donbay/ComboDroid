@@ -1,30 +1,33 @@
-# ComboDroid
+# 🐾 ComboDroid  
 
-A sleek, modern World of Warcraft addon for Turtle WoW and Classic WoW that displays combo points, target health, and player health in a resizable, movable window.
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Downloads](https://img.shields.io/github/downloads/donbay/ComboDroid/total?color=brightgreen)
+![License](https://img.shields.io/github/license/donbay/ComboDroid)
+![Platform](https://img.shields.io/badge/platform-Turtle%20WoW-orange)
+![Lua](https://img.shields.io/badge/language-Lua-blueviolet)
 
-![Description of image](images/screenshot.png)
+*A lightweight, stylish World of Warcraft: Turtle WoW addon for tracking combo points.*  
 
-## Features
-- Combo points bar with rainbow colors
-- Target health bar (turns red in combat)
-- Player health bar
-- Window is movable, resizable, and content scales
-- Dims combo bar if not enough energy to use main ability
-- Works for Rogues and Druids (shows message for other classes)
-- Slash command `/combodroid` to toggle the window
+![Description of image](images/screenshot.png)<!-- Optional: replace with your demo GIF or remove -->
 
-## Installation
-1. Download or clone this repository.
-2. Copy the `` folder into your WoW `Interface/AddOns` directory.
-3. Restart WoW or reload the UI.
+---
 
-## Usage
-- Type `/combodroid` in chat to show or hide the window.
-- Use handle in the bottom right to resize or anywhere in window to move.
+## ✨ Features  
 
-## Files
-- `ComboDroid.lua` — Main addon logic and UI
-- `ComboDroid.toc` — Addon metadata
+- 🎨 **Sleek & Compact UI** – scaled down to **80%** for a clean, polished look.  
+- 🌈 **Rainbow Combo Indicators** – glowing combo points that pop visually.  
+- 🎯 **Perfect Alignment** – combo points stretch **exactly** across your health bar width.  
+- 🐈 **Cat Form Awareness** – **auto-show** in Cat Form, hides otherwise.  
+- 🛠 **Configurable Auto-Visibility** – toggle with `/combodroid auto`.  
+- 🎛 **Smooth Controls** – right-click close, ESC closable, elegant close button.  
+- ⚡ **Lightweight** – optimized to use minimal CPU resources on Turtle WoW.  
 
-## License
-MIT License (see LICENSE file)
+---
+
+## 📦 Installation  
+
+1. **Download** the latest release from the [Releases](https://github.com/donbay/ComboDroid/releases) page  
+   or **clone** the repository:  
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/ComboDroid.git
