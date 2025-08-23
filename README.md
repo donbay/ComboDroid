@@ -15,11 +15,10 @@
 ## ✨ Features  
 
 - 🎨 **Sleek & Compact UI** – scaled down to **80%** for a clean, polished look.  
-- 🌈 **Rainbow Combo Indicators** – glowing combo points that pop visually.  
-- 🎯 **Perfect Alignment** – combo points stretch **exactly** across your health bar width.  
+- 🌈 **Rainbow Combo Indicators** – glowing combo points that pop visually.    
 - 🐈 **Cat Form Awareness** – **auto-show** in Cat Form, hides otherwise.  
 - 🛠 **Configurable Auto-Visibility** – toggle with `/combodroid auto`.  
-- 🎛 **Smooth Controls** – right-click close, ESC closable, elegant close button.  
+- 🎛 **Smooth Controls** – right-click close, ESC closable.  
 - ⚡ **Lightweight** – optimized to use minimal CPU resources on Turtle WoW.  
 
 ---
@@ -30,4 +29,4 @@
    or **clone** the repository:  
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ComboDroid.git
+   git clone https://github.com/Ydonbay/ComboDroid.git
